@@ -18,6 +18,8 @@ body {
 
 .container {
     display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     height: 94vh;
@@ -25,11 +27,14 @@ body {
 }
 
 header{
-    position: absolute;
     height: 50px;
     width: 100%;
-    color: white;
+    color: #000;
     background-color: var(--secondaryColor);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
 }
 
 h2 {
