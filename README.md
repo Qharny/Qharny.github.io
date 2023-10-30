@@ -5,13 +5,13 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 
 ## 📌About Me:
-    I am a Mobile App Developer.
-    I am a web designer.
-    I am very passionate about improving my coding skills & developing applications & websites.
-    I build WebApps and Websites using Angular.
-    I build mobile apps with flutter.
-    Working for myself to improve my skills.
-    I'm also into music. I play the 🎷saxophone
+  I am a Mobile App Developer.
+  I am a web designer.
+  I am very passionate about improving my coding skills & developing applications & websites.
+  I build WebApps and Websites using Angular.
+  I build mobile apps with flutter.
+  Working for myself to improve my skills.
+  I'm also into music. I play the 🎷saxophone
 
 
 ## 📌 Sneak Peek of Main Page 🙈 :
@@ -26,7 +26,14 @@ If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/manasseh-kabutey-58887123b/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
+If you would like to discuss solutions with me or hire me, 
+my email address is [akrongsylvester@gmail.com]❤️
+and this is my website [[https://https://qharny.github.io/](https://qharny.github.io/)]
+
 © 2023 Mr_Kabuteyy
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+
+<a href="https://streak-stats.demolab.com/?user=Qharny&theme=carbonfox">
