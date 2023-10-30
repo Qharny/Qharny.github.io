@@ -5,13 +5,16 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 
 ## 📌About Me:
-  I am a Mobile App Developer.
-  I am a web designer.
-  I am very passionate about improving my coding skills & developing applications & websites.
-  I build WebApps and Websites using Angular.
-  I build mobile apps with flutter.
-  Working for myself to improve my skills.
-  I'm also into music. I play the 🎷saxophone
+ - 👨‍💻I am a Mobile App Developer.
+ - 🦗I am a web designer.
+ - 🪸I am very passionate about improving my coding skills & developing applications & websites.
+ - 🤓I build WebApps and Websites using Angular.
+ - 👨‍💻I build mobile apps with flutter.
+ - 🌱Working for myself to improve my skills.
+ - 🎶I'm also into music. I play the 🎷saxophone
+
+
+##<a href="https://streak-stats.demolab.com/?user=Qharny&theme=carbonfox">
 
 
 ## 📌 Sneak Peek of Main Page 🙈 :
@@ -34,6 +37,3 @@ and this is my website [[https://https://qharny.github.io/](https://qharny.githu
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-
-<a href="https://streak-stats.demolab.com/?user=Qharny&theme=carbonfox">
