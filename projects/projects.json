@@ -2,7 +2,7 @@
   {
     "name": "To Do List",
     "desc": "Though under production, hoping for it to hve more functionalities",
-    "image": "notystackandroid",
+    "image": "to do",
     "category": "Flutter",
     "links": {
       "code": "https://github.com/Qharny/to_do_list"
@@ -11,7 +11,7 @@
   {
     "name": "A Salon Booking System",
     "desc": "A salon booking system",
-    "image": "notystackandroid",
+    "image": "salon",
     "category": "PHP",
     "links": {
       "code": "https://github.com/Qharny/Salon_Project"
@@ -20,7 +20,7 @@
   {
     "name": "A Keylogger",
     "desc": "Can be use to track keys pressed on the keyboard",
-    "image": "notystackandroid",
+    "image": "key",
     "category": "Python",
     "links": {
       "code": "https://github.com/Qharny/keylogger"
@@ -29,7 +29,7 @@
   {
     "name": "Creative warehouse",
     "desc": "A company's portfolio",
-    "image": "notystackandroid",
+    "image": "#",
     "category": "scss",
     "links": {
       "code": "https://github.com/Qharny/keylogger"
@@ -38,10 +38,19 @@
   {
     "name": "A Tic tac toe game",
     "desc": "A simple tic tac toe game with C++",
-    "image": "notystackandroid",
+    "image": "tic",
     "category": "C++",
     "links": {
       "code": "https://github.com/Qharny/Colored-TicTacToe-Game-using-OOP-main"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "My personal Portfolio",
+    "image": "portfolio",
+    "category": "HTML, CSS, JS, Jquery",
+    "links": {
+      "code": "https://qharny.github.io/"
     }
   }
 ]
