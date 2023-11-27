@@ -7,7 +7,7 @@
   box-sizing: border-box;
   text-decoration: none;
   outline: none; border: none;
-  text-transform:capitalize;
+  text-transform: capitalize;
   transition: all .2s linear;
 }
 html{
@@ -17,7 +17,7 @@ html{
 }
 body{
   background: #f7f7f7;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'outfits', sans-serif;
 }
 
 *::selection{
