@@ -84,5 +84,17 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    }    
+    },
+    {
+        "name": "Flutter",
+        "icon": "https://img.icons8.com/color/48/000000/flutter"
+    },
+    {
+        "name": "Dart",
+        "icon": "https://img.icons8.com/color/48/000000/dart"
+    },
+    {
+        "name": "Angular",
+        "icon": "https://icons8.com/icon/6SWtW8hxZWSo/angular"
+    }
 ]
