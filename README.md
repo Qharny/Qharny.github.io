@@ -30,7 +30,7 @@ If you want to contact me, you can reach me through below handles.
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/manasseh-kabutey-58887123b/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
 If you would like to discuss solutions with me or hire me, 
-my email address is [akrongsylvester@gmail.com]❤️
+my email address is [cannycc1020@gmail.com]❤️
 and this is my website [[https://https://qharny.github.io/](https://qharny.github.io/)]
 
 © 2023 Mr_Kabuteyy
