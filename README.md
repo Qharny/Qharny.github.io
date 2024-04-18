@@ -6,7 +6,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## 📌About Me:
  - 👨‍💻I am a Mobile App Developer.
- - 🦗I am a web designer.
+ - 🦗I am a web developer.
  - 🪸I am very passionate about improving my coding skills & developing applications & websites.
  - 🤓I build WebApps and Websites using Angular.
  - 👨‍💻I build mobile apps with flutter.
